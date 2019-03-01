@@ -1,3 +1,15 @@
 .App {
   text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.nav-bar {
+  background: rgb(64, 160, 238);
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+  align-items: center;
 }
